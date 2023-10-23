@@ -1,5 +1,5 @@
 # SCT013-to-InfluxDB
-Send readings from an SCT013 non invasive Current transformer to InfluxDB
+Send readings from an SCT013 non invasive Current transformer to InfluxDB using an esp8266 D1 Mini
 
 This example uses a 30A 1V version and assumes 240v supply.
 
