@@ -134,7 +134,7 @@ void loop() {
 void handleRoot() {
   float rmsVal = readRms.rmsVal;
   float currentRms = (rmsVal / sensorGain) * ampsPerVolt;
-  float power = currentRms * 230.0;
+  float power = currentRms * 240.0;
 
   String html = "<html><body>";
   html += "<h1>Power Meter</h1>";
