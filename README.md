@@ -9,4 +9,6 @@ It also has a basic web interface that displays the RMS Current and power in Wat
 
 Any errors relating to your influxdb connection are also printed to help with connection issues.
 
+Below is a screenshot from my InfluxDB dashboard.
+
 ![alt text](https://github.com/HenrysCat/SCT013-to-InfluxDB/blob/main/Screenshot.png?raw=true)
