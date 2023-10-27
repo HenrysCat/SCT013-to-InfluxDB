@@ -8,3 +8,5 @@ It also uses a Mains Power Sensor board from https://www.mottramlabs.com/esp_pro
 It also has a basic web interface that displays the RMS Current and power in Watts, the ip address will be printed in the serial monitor when it connects to WiFi along with ADC Reading, RMS Voltage, Actual Current and Power in Watts
 
 Any errors relating to your influxdb connection are also printed to help with connection issues.
+
+![alt text](https://github.com/HenrysCat/SCT013-to-InfluxDB/blob/main/Screenshot.png?raw=true)
