@@ -138,7 +138,7 @@ void handleRoot() {
 
   String html = "<html><body>";
   html += "<h1>Power Meter</h1>";
-  html += "<p>RMS Current: " + String(currentRms, 2) + " mA</p>";
+  html += "<p>RMS Current: " + String(currentRms, 2) + " A</p>";
   html += "<p>Power: " + String(power, 2) + " W</p>";
   html += "</body></html>";
 
